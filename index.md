@@ -21,3 +21,5 @@ oh.. i just did that..
 
 # THERE ARE DOOM EMOJI'S?!?
 :feelsgood::finnadie::goberserk::godmode::hurtrealbad::rage1::rage2::rage3::rage4::suspect:
+
+**hellyeah**
