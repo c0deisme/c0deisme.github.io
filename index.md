@@ -19,7 +19,7 @@ well, i could :link: to my [Raspberry Pi Temperature Reader Script/Program Thing
 oh.. i just did that..
 
 
-# THERE ARE DOOM EMOJI'S?!?
+# THERE ARE [DOOM](https://github.com/id-Software/DOOM) EMOJI'S?!?
 :feelsgood::finnadie::goberserk::godmode::hurtrealbad::rage1::rage2::rage3::rage4::suspect:
 
 **hellyeah**
