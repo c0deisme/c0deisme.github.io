@@ -14,7 +14,7 @@ i :heart: :octocat:GitHub:octocat:
 anyway..
 
 ## what should i do here?
-well, i could link to my [Raspberry Pi Temperature Reader Script/Program Thingy](https://github.com/c0deisme/pitemp)
+well, i could link to my [Raspberry Pi Temperature Reader Script/Program Thingy™](https://github.com/c0deisme/pitemp)
 
 oh.. i just did that..
 
