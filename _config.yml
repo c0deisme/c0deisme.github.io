@@ -6,3 +6,5 @@ url: "https://c0de.works"
 
 plugins:
   - jemoji
+github:
+  is_project_page: false
