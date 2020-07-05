@@ -2,7 +2,7 @@
 title: c0de.works
 owner: "c0deisme"
 url: "https://c0de.works"
-baseurl: "/pRoJEct-NeGYa"
+baseurl: "/"
 permalink: /:title/
 description: ""
 markdown: kramdown
