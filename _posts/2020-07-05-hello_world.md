@@ -1,5 +1,6 @@
 ---
 title: hello world!
+author: c0de
 layout: post
 category: none
 date: 2020-07-05
