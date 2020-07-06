@@ -3,7 +3,7 @@ title: c0de.works
 owner: "c0deisme"
 url: "https://c0de.works"
 baseurl: "/"
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
 description: ""
 markdown: kramdown
 webrick:
@@ -12,6 +12,7 @@ webrick:
 ## Global Variables
 email: "c0de@c0de.works"
 github: "c0deisme"
+encrypted_text: false
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "Designed by DeerRIDER, All Rights Reserved"
