@@ -10,7 +10,7 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
-email: "me@c0de.works"
+email: "c0de@c0de.works"
 github: "c0deisme"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
