@@ -1,8 +1,10 @@
 ---
 title: hello world!
 layout: post
-category: uncategorized
+category: none
 date: 2020-07-05
 ---
 
-GitHub Pages really does work for domains too!^^
+# GitHub :octocat: Pages really does work for domains too!^^
+The hardest part was to choose a [Jekyll](https://jekyllrb.com/) [Theme](https://github.com/akiritsu/pRoJEct-NeGYa).
+And I'm still not done deciding :confused:
