@@ -10,7 +10,7 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
-email: "c0de@c0de.works"
+## email: "c0de@c0de.works"
 github: "c0deisme"
 encrypted_text: false
 btn_text: false
