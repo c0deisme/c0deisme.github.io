@@ -11,6 +11,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
 ## email: "c0de@c0de.works"
+email: ""
 github: "c0deisme"
 encrypted_text: false
 btn_text: false
