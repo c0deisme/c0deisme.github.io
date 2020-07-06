@@ -13,6 +13,7 @@ webrick:
 email: "c0de@c0de.works"
 github: "c0deisme"
 encrypted_text: false
+btn_text: false
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "Designed by DeerRIDER, All Rights Reserved"
