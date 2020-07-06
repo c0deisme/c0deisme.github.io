@@ -17,7 +17,7 @@ encrypted_text: false
 btn_text: false
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
-statement: "Theme <a href='https://github.com/akiritsu/pRoJEct-NeGYa'>pRoJEct-NeGYa</a> made by <a href='https://github.com/akiritsu'>akiritsu</a>"
+statement: "Theme <a href='https://github.com/akiritsu/pRoJEct-NeGYa' target=_blank>pRoJEct-NeGYa</a> made by <a href='https://github.com/akiritsu' target=_blank>akiritsu</a>"
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
