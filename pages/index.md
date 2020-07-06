@@ -12,4 +12,4 @@ permalink: /
 ---
 
 # c0de.works
-welcome to my page
+welcome
