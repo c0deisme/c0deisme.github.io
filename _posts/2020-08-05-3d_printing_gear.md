@@ -12,7 +12,7 @@ lets begin^^
   
 | My 3D Printer: | My Current Filament: |
 |[Monoprice MP10 300x300](https://amzn.to/2PwMuE5)|[Geeetech Filament](https://amzn.to/3fwIEp6)|
-|(Don't Forget Isopropanol for cleaning the Printbed.)|[Giantarm Filament](https://amzn.to/30uOALi)|
-||[Xingtong Zhi Lian Technology Filament](https://amzn.to/30uxMUH)|
+|Looks like a clone of the CR10S, Printbeds n Stuff are Compatible|[Giantarm Filament](https://amzn.to/30uOALi)|
+|(Don't Forget Isopropanol for cleaning the Printbed.)|[Xingtong Zhi Lian Technology Filament](https://amzn.to/30uxMUH)|
   
 ~c0de
