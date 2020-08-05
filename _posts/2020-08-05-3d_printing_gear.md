@@ -6,7 +6,7 @@ category: none
 date: 2020-08-05
 ---
 # 3D Printing Gear^^
-now, before I start, all of the Amazon links/"widgets" and stuff are links where i will get a small kickback if you click these.  
+now, before I start, all of the Amazon links/"widgets" and stuff are links where i will get a small kickback if you click these, because of the Amazon-Partner Program.  
 with that out of the way,  
 lets begin^^  
   
