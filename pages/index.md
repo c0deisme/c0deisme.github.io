@@ -12,4 +12,7 @@ permalink: /
 ---
 
 # c0de.works
-welcome
+welcome  
+
+
+(all Amazon links are affiliate links)
