@@ -2,7 +2,7 @@
 title: Photography
 author: c0de
 layout: post
-category: photograohy
+category: photography
 date: 2021-03-20
 ---
 
