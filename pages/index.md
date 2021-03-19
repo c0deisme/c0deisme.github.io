@@ -13,6 +13,3 @@ permalink: /
 
 # c0de.works
 welcome  
-
-
-(all Amazon links are affiliate links)
