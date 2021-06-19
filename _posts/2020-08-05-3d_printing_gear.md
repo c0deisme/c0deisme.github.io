@@ -2,7 +2,7 @@
 title: My 3D-Printing Gear
 author: c0de
 layout: post
-category: none
+category: 3D Printing
 date: 2020-08-05
 ---
 
